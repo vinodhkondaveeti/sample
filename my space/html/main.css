@@ -1,0 +1,27 @@
+head
+{
+    font-size: 22px;
+}
+body
+{
+    background-color: blanchedalmond;
+    
+    color: red;
+    
+}
+a
+{
+    color:skyblue;
+}
+ul
+{
+    color:black
+}
+address
+{
+    color:gray
+}
+abbr
+{
+    color:green
+}

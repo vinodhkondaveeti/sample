@@ -1,0 +1,19 @@
+                                      page 1  
+                                    ----------                
+ 
+profile picture                          | digital badges | education                              |certification                             | hobbies
+designation tag(single line about me)    |                |                                        |                                          |   
+ 
+information                              |                |technical skills                        |certificates                              |career objectives(goals)
+home:                                    |                | ->(don't use basics of programming)    |  (mention brand certificates)            |
+phone:                                   |                | ->aws                                  |
+mail:                                    |                | ->genai                                |projects                                  |
+                                                          | -> and so on                           |  academic projects                       |
+portfolios                               |                |                                        |  technical projects                      |decleration
+LinkedIn profile                         |                |  tools known                           |  (don't mention unnecessary projects     |
+hacker rank                              |                |slack                                   |       and huge projects)                 |
+leatcodes                                |                |aws management                          |inter person skills(species for resume)   |sign
+GitHub                                   |                |chat gpt                                |   project management skills              |
+                                                                                                   |   leader ship quality                    |
+                                                                                                   |   communication skills                   |
+                                                                                                   |   smart worker                           |

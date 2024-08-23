@@ -1,0 +1,92 @@
+HTML NOTES
+
+<p>.......</p> = paragraph
+<hr>   = line 
+<br>   = line break
+<em>......</em>    = font changes
+<strong>......</strong>   = bold letters
+<address>....</address>
+<figure>.....</figure>  =  to display the image
+<figcaption>.....</figcaption>   =   to wite the discriptin of the figure
+<code>.....</code>   =  it is used to write the code in the page
+<mark>....</mark>  =  it is used to highlight the line
+<table>...</table>  =   to create the table
+<tr>...</tr>  = table row
+<td>..</td> = table data
+<caption>...<</caption>  =  it is used to write the caption 
+ex:
+<table>
+
+<caption>     </caption>
+
+</table>
+<!-- .......  -->   it is similar as // in java
+
+&nbsp;  =  gives space 
+
+ex: <p>vinodh</p>       
+o/p:                       
+vinodh                
+
+<p>&nbsp;vinodh</p>
+o/p:
+ vinodh
+
+
+&lt; stands for <
+&gt; stands for >
+
+&copy;  stands for  ⓒ
+
+<abbr> tittle= </abbr> stands for 
+ 
+<ol> .... </ol> stands for ordered list  
+<li>...</li> stands for list
+it can ne written as 
+<ol>
+<li> hloo </ol>
+<li> vinodh </ol>
+</ol>
+  
+output:
+1.hello
+2.vinodh
+
+<ul>....</ul> stands for unordered list 
+it can ne written as 
+<ul>
+<li> hloo </ol>
+<li> vinodh </ol>
+</l>
+  
+output:
+• hello
+• vinodh
+
+
+<dl>....</dl> stands for description list
+<dt>...</dt> stands for description term
+<dd>...</dd> stands for description details
+
+it can ne written as 
+<dl>
+<dt>what's your name</dt>
+<dd> my name is vinodh </dd>
+<dt> where r u from?</dt>
+<dd> im from guntur.</dd>
+</dl>
+ output:
+ what's your name
+    my name is vinodh
+ where r u from?
+     im from guntur.
+
+
+table creation
+<table>
+<caption>...</caption>     = table name
+<tr>
+<th>
+</th>
+</tr>
+
